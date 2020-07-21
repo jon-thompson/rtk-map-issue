@@ -36,7 +36,7 @@
     "immutable": "^3.8.2",
     "leaflet": "0.7.7",
     "leaflet.markercluster": "git://github.com/Leaflet/Leaflet.markercluster.git#leaflet-0.7",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "moment": "^2.25.3",
     "postcss-loader": "^3.0.0",
     "ramda": "^0.27.0",
